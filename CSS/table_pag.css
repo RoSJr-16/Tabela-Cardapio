@@ -1,0 +1,10 @@
+thead{
+    background-color: pink;
+    color: black;
+}
+
+td{
+    border: solid rgb(95, 94, 94) 1px;
+    padding: 10px;
+    background-color: white;
+}
